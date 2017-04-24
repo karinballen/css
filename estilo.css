@@ -1,4 +1,4 @@
-@media (min-width:992px){ 
+@media screen and (min-width:992px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
@@ -7,7 +7,7 @@ BODY {
 } 
 #contenedor{ 
     text-align: left; 
-    width: 1350px; 
+    width: 600px; 
 
 } 
 #cabecera{ 
@@ -60,7 +60,7 @@ BODY {
     float: right;
 } 
 }
-@media (max-width:767px){ 
+@media screen and (max-width:767px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
@@ -122,7 +122,7 @@ BODY {
     float: right;
 } 
 }
-@media (min-width:768px) and (max-width:991px){ 
+@media screen and (min-width:768px) and (max-width:991px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
