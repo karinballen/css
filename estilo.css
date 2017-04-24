@@ -83,7 +83,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 18.2%; 
+    width: 60%; 
     background-color: #999999; 
     float:left; 
 }
@@ -91,14 +91,14 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 18.2%; 
+    width: 60%; 
     background-color: #999999; 
     float: right; 
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
-    width: 18.2%; 
+    width: 60%; 
     background-color: #999999;
     float: inherit; 
 } 
