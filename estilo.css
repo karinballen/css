@@ -58,8 +58,7 @@ BODY {
     font color= "white";
     background-color: #DA4444; 
     float: right;
-} 
-}
+    
 @media screen and (max-width:767px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
@@ -120,9 +119,8 @@ BODY {
     font color= "white";
     background-color: #DA4444; 
     float: right;
-} 
 }
-@media screen and (min-width:768px) and (max-width:991px){ 
+    @media screen and (min-width:768px) and (max-width:991px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
@@ -184,3 +182,8 @@ BODY {
     float: right;
 } 
 }
+}
+} 
+}
+
+
