@@ -3,12 +3,11 @@ BODY {
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
     text-align: center; 
-    background-color: #FFFFFF; 
- width: 1350px; 
+    background-color: #FFFFFF;  
 } 
 #contenedor{ 
     text-align: left; 
-    width: 960px; 
+    width: 1350px; 
 
 } 
 #cabecera{ 
@@ -67,11 +66,10 @@ BODY {
     margin: 10 0 10 0px; 
     text-align: center; 
     background-color: #FFFFFF; 
- width: 300px; 
 } 
 #contenedor{ 
     text-align: left; 
-    width: 960px; 
+    width: 767px; 
 
 } 
 #cabecera{ 
@@ -85,7 +83,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 6%; 
+    width: 18,2%; 
     background-color: #999999; 
     float:left; 
 }
@@ -124,3 +122,4 @@ BODY {
     float: right;
 } 
 }
+
