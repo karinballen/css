@@ -82,7 +82,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 100%; 
+    width: 18%; 
     background-color: #999999; 
     
 }
@@ -90,14 +90,14 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 100%; 
+    width: 18%; 
     background-color: #999999; 
     
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
-    width: 100%; 
+    width: 18%; 
     background-color: #999999;
      
 } 
