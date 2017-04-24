@@ -58,7 +58,6 @@ BODY {
     font color= "white";
     background-color: #DA4444; 
     float: right;
-    
 @media screen and (max-width:767px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
@@ -82,24 +81,24 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 18%; 
+    width: 18.2%; 
     background-color: #999999; 
-    
+    float:left; 
 }
  
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 18%; 
+    width: 18.2%; 
     background-color: #999999; 
-    
+    float: right; 
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
-    width: 18%; 
+    width: 18.2%; 
     background-color: #999999;
-     
+    float: inherit; 
 } 
 #lateralchicken{ 
     width: 90px; 
@@ -119,8 +118,8 @@ BODY {
     font color= "white";
     background-color: #DA4444; 
     float: right;
-}
-    @media screen and (min-width:768px) and (max-width:991px){ 
+} 
+@media screen and (min-width:768px) and (max-width:991px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
