@@ -1,0 +1,63 @@
+@media screen and (min-width:996px){ 
+BODY { 
+    font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
+    margin: 10 0 10 0px; 
+    text-align: center; 
+    background-color: #FFFFFF; 
+ width: 1350px; 
+} 
+#contenedor{ 
+    text-align: left; 
+    width: 960px; 
+
+} 
+#cabecera{ 
+    background-color: ; 
+    color: #333300; 
+    font-size:18pt; 
+    font-weight: bold; 
+    float: center;
+} 
+
+#lateral{ 
+    margin-left: 1.48%;
+    border: 1px solid black;
+    width: 31.11%; 
+    background-color: #999999; 
+    float:left; 
+}
+ 
+#lateralder{ 
+    margin-right: 1.48%;
+    border: 1px solid black;
+    width: 31.11%; 
+    background-color: #999999; 
+    float: right; 
+} 
+#central{  
+    margin-left: 34.4%;
+    border: 1px solid black;
+    width: 31.11%; 
+    background-color: #999999;
+    float: inherit; 
+} 
+#lateralchicken{ 
+    width: 90px; 
+    background-color: #DF7070; 
+    border: 1px solid black;
+    float: right; 
+} 
+#lateralsushi{ 
+    width: 90px; 
+    border: 1px solid black;
+    background-color: #F7D358; 
+    float: right; 
+} 
+#centralbeef{ 
+    width: 90px; 
+    border: 1px solid black;
+    font color= "white";
+    background-color: #DA4444; 
+    float: right;
+} 
+}
