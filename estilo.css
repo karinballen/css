@@ -1,4 +1,4 @@
-@media screen and (min-width:100px){ 
+@media screen and (max-width:767px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
