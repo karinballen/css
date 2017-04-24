@@ -83,7 +83,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 18.2%; 
     background-color: #999999; 
     float:left; 
 }
@@ -91,14 +91,14 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 18.2%; 
     background-color: #999999; 
     float: right; 
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 18.2%; 
     background-color: #999999;
     float: inherit; 
 } 
@@ -131,7 +131,7 @@ BODY {
 } 
 #contenedor{ 
     text-align: left; 
-    width: 767px; 
+    width: 991px; 
 
 } 
 #cabecera{ 
@@ -143,24 +143,24 @@ BODY {
 } 
 
 #lateral{ 
-    margin-left: 1.48%;
+    margin-left: 2%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 42.38%; 
     background-color: #999999; 
     float:left; 
 }
  
 #lateralder{ 
-    margin-right: 1.48%;
+    margin-right: 2%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 42.38%; 
     background-color: #999999; 
     float: right; 
 } 
 #central{  
-    margin-left: 60%;
+    margin-left: 46.92%;
     border: 1px solid black;
-    width: 18,2%; 
+    width: 42.38%; 
     background-color: #999999;
     float: inherit; 
 } 
