@@ -4,7 +4,7 @@ BODY {
     margin: 10 0 10 0px; 
     text-align: center; 
     background-color: #FFFFFF; 
- width: 992px; 
+ width: 1350px; 
 } 
 #contenedor{ 
     text-align: left; 
@@ -85,7 +85,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 31.11%; 
+    width: 18,2%; 
     background-color: #999999; 
     float:left; 
 }
@@ -93,14 +93,14 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 31.11%; 
+    width: 18,2%; 
     background-color: #999999; 
     float: right; 
 } 
 #central{  
-    margin-left: 34.4%;
+    margin-left: 60%;
     border: 1px solid black;
-    width: 31.11%; 
+    width: 18,2%; 
     background-color: #999999;
     float: inherit; 
 } 
