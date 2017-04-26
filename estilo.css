@@ -145,6 +145,9 @@ BODY {
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
+    float: right;
+    margin-top: 2%;
+    margin-left: 2%;  
 } 
  
 #lateralder{ 
