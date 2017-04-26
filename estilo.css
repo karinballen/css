@@ -81,7 +81,6 @@ BODY {
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
-    float:center; 
 }
  
 #lateralder{ 
@@ -89,14 +88,12 @@ BODY {
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
-    float: center; 
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
     width: 18.2%; 
     background-color: #999999;
-    
 } 
 #lateralchicken{ 
     width: 90px; 
