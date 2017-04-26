@@ -1,14 +1,13 @@
-@media screen and (min-width:992px){ 
 BODY { 
     font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
     margin: 10 0 10 0px; 
     text-align: center; 
     background-color: #FFFFFF;  
-} 
+}
+@media screen and (min-width:992px) and (min-width:1350px){ 
 #contenedor{ 
     text-align: left; 
-    width: 600px; 
-
+    width: 1350px; 
 } 
 #cabecera{ 
     background-color: ; 
@@ -60,13 +59,7 @@ BODY {
     float: right;
 } 
 }
-@media screen and (max-width:767px){ 
-BODY { 
-    font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
-    margin: 10 0 10 0px; 
-    text-align: center; 
-    background-color: #FFFFFF; 
-} 
+@media screen and (min-width:30px) and (max-width:767px){ 
 #contenedor{ 
     text-align: left; 
     width: 767px; 
@@ -83,7 +76,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 60%; 
+    width: 18.2%; 
     background-color: #999999; 
     float:left; 
 }
@@ -91,14 +84,14 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 60%; 
+    width: 18.2%; 
     background-color: #999999; 
     float: right; 
 } 
 #central{  
     margin-left: 60%;
     border: 1px solid black;
-    width: 60%; 
+    width: 18.2%; 
     background-color: #999999;
     float: inherit; 
 } 
@@ -123,12 +116,6 @@ BODY {
 } 
 }
 @media screen and (min-width:768px) and (max-width:991px){ 
-BODY { 
-    font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
-    margin: 10 0 10 0px; 
-    text-align: center; 
-    background-color: #FFFFFF; 
-} 
 #contenedor{ 
     text-align: left; 
     width: 991px; 
@@ -184,3 +171,5 @@ BODY {
     float: right;
 } 
 }
+
+
