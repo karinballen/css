@@ -119,7 +119,7 @@ BODY {
 
 #contenedor{ 
     text-align: left; 
-    width: 73.4%; 
+    width: 100%; 
 
 } 
 #cabecera{ 
@@ -167,7 +167,7 @@ BODY {
 #centralbeef{ 
     width: 90px; 
     border: 1px solid black;
-    font color= "white";
+    font color= "red";
     background-color: #DA4444; 
     float: right;
 } 
