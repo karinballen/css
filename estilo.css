@@ -135,6 +135,7 @@ BODY {
     border: 1px solid black;
     width: 42.38%; 
     background-color: #999999; 
+    float: left;
 }
     #central{  
     margin-right: 2%;
@@ -147,8 +148,9 @@ BODY {
 #lateralder{ 
     margin-right: 2%;
     border: 1px solid black;
-    width: 100%; 
+    width: 90%; 
     background-color: #999999; 
+    float: center;
 } 
 
 #lateralchicken{ 
