@@ -141,6 +141,7 @@ BODY {
     border: 1px solid black;
     width: 42.38%; 
     background-color: #999999; 
+    float: right;
 } 
  
 #lateralder{ 
