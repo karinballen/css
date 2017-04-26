@@ -77,24 +77,38 @@ BODY {
 } 
 
 #lateral{ 
-    margin-left: 1.48%;
+    margin-left: 2%;
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2%;
+    margin-left: 2%;
 }
+    #central{  
+    margin-right: 2%;
+    border: 1px solid black;
+    width: 80%; 
+    background-color: #999999; 
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    margin-top: 2%;
+    margin-left: 2%;  
+} 
  
 #lateralder{ 
-    margin-right: 1.48%;
+    margin-right: 2%;
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2%;
+    margin-left: 2%;
 } 
-#central{  
-    margin-left: 60%;
-    border: 1px solid black;
-    width: 18.2%; 
-    background-color: #999999;
-} 
+
 #lateralchicken{ 
     width: 90px; 
     background-color: #DF7070; 
@@ -110,10 +124,10 @@ BODY {
 #centralbeef{ 
     width: 90px; 
     border: 1px solid black;
-    font color= "white";
+    font color= "red";
     background-color: #DA4444; 
     float: right;
-} 
+}
 }
 @media screen and (min-width:768px) and (max-width:991px){ 
 
@@ -133,7 +147,7 @@ BODY {
 #lateral{ 
     margin-left: 2%;
     border: 1px solid black;
-    width: 42.38%; 
+    width: 90%; 
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
@@ -143,11 +157,10 @@ BODY {
     #central{  
     margin-right: 2%;
     border: 1px solid black;
-    width: 42.38%; 
+    width: 90%; 
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
-    float: right;
     margin-top: 2%;
     margin-left: 2%;  
 } 
@@ -155,7 +168,7 @@ BODY {
 #lateralder{ 
     margin-right: 2%;
     border: 1px solid black;
-    width: 80%; 
+    width: 90%; 
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
