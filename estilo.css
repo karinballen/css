@@ -81,7 +81,7 @@ BODY {
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
-    float:left; 
+    float:center; 
 }
  
 #lateralder{ 
@@ -89,7 +89,7 @@ BODY {
     border: 1px solid black;
     width: 80%; 
     background-color: #999999; 
-    float: right; 
+    float: center; 
 } 
 #central{  
     margin-left: 60%;
