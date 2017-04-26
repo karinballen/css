@@ -62,7 +62,7 @@ BODY {
 @media screen and (min-width:30px) and (max-width:767px){ 
 #contenedor{ 
     text-align: left; 
-    width: 767px; 
+    width: 30%; 
 
 } 
 #cabecera{ 
