@@ -119,7 +119,7 @@ BODY {
 
 #contenedor{ 
     text-align: left; 
-    width: 80%; 
+    width: 100%; 
 
 } 
 #cabecera{ 
@@ -137,6 +137,8 @@ BODY {
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
+    margin-top: 2%;
+    margin-left: 2%;
 }
     #central{  
     margin-right: 2%;
@@ -157,6 +159,8 @@ BODY {
     background-color: #999999; 
     display: inline-block;
     vertical-align: top;
+    margin-top: 2%;
+    margin-left: 2%;
 } 
 
 #lateralchicken{ 
