@@ -119,7 +119,7 @@ BODY {
 
 #contenedor{ 
     text-align: left; 
-    width: 100%; 
+    width: 80%; 
 
 } 
 #cabecera{ 
@@ -149,6 +149,7 @@ BODY {
     margin-right: 2%;
     border: 1px solid black;
     width: 90%; 
+    height: 18%;
     background-color: #999999; 
     float: center;
 } 
