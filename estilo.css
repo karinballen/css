@@ -79,7 +79,7 @@ BODY {
 #lateral{ 
     margin-left: 1.48%;
     border: 1px solid black;
-    width: 18.2%; 
+    width: 80%; 
     background-color: #999999; 
     float:left; 
 }
@@ -87,7 +87,7 @@ BODY {
 #lateralder{ 
     margin-right: 1.48%;
     border: 1px solid black;
-    width: 18.2%; 
+    width: 80%; 
     background-color: #999999; 
     float: right; 
 } 
@@ -96,7 +96,7 @@ BODY {
     border: 1px solid black;
     width: 18.2%; 
     background-color: #999999;
-    float: inherit; 
+    
 } 
 #lateralchicken{ 
     width: 90px; 
