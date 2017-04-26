@@ -135,22 +135,25 @@ BODY {
     border: 1px solid black;
     width: 42.38%; 
     background-color: #999999; 
-    float: left;
+    display: inline-block;
+    vertical-align: top;
 }
     #central{  
     margin-right: 2%;
     border: 1px solid black;
     width: 42.38%; 
     background-color: #999999; 
-    float: right;
+    display: inline-block;
+    vertical-align: top;
 } 
  
 #lateralder{ 
     margin-right: 2%;
     border: 1px solid black;
-    width: 90%; 
+    width: 80%; 
     background-color: #999999; 
-    float: center;
+    display: inline-block;
+    vertical-align: top;
 } 
 
 #lateralchicken{ 
